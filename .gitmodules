@@ -4,3 +4,6 @@
 [submodule "LDHA-laravel"]
 	path = LDHA-laravel
 	url = git@github.com:Parsa-19/LDHA-laravel.git
+[submodule "LDHA-haproxy"]
+	path = LDHA-haproxy
+	url = git@github.com:Parsa-19/LDHA-haproxy.git
