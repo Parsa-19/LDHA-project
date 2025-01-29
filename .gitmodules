@@ -1,0 +1,3 @@
+[submodule "LDHA-django"]
+	path = LDHA-django
+	url = git@github.com:Parsa-19/LDHA-django.git
