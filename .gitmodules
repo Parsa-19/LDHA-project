@@ -1,3 +1,6 @@
 [submodule "LDHA-django"]
 	path = LDHA-django
 	url = git@github.com:Parsa-19/LDHA-django.git
+[submodule "LDHA-laravel"]
+	path = LDHA-laravel
+	url = git@github.com:Parsa-19/LDHA-laravel.git
